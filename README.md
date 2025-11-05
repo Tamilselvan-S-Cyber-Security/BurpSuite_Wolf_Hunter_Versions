@@ -52,7 +52,7 @@ Wolf Hunter is a comprehensive vulnerability scanner extension for Burp Suite th
 
 # Wolf Hunter - New Features
 
-## ✅ Right-Click Context Menu Scanning
+##  Right-Click Context Menu Scanning
 
 ### Accessing the Context Menu
 Right-click on any request/response in Burp Suite to access Wolf Hunter scan options.
@@ -85,7 +85,7 @@ Right-click on any request/response in Burp Suite to access Wolf Hunter scan opt
 - Useful for marking items for later analysis
 - Creates info-level entries for manual review
 
-## 📊 Enhanced Vulnerability Details
+##  Enhanced Vulnerability Details
 
 ### Full Request/Response Information
 Each vulnerability now includes:
@@ -107,7 +107,7 @@ When you select a vulnerability in the table:
 - **Recommendations**: Security recommendations
 - **Additional Information**: Full request/response data
 
-## 🔍 Auto-Scanning Features
+## Auto-Scanning Features
 
 ### Passive Auto-Scanning
 - Automatically scans all HTTP traffic passing through Burp Proxy
@@ -126,7 +126,7 @@ When you select a vulnerability in the table:
   - Custom Payload Injection
   - Directory Forcing
 
-## 📋 Understanding Vulnerabilities
+## Understanding Vulnerabilities
 
 ### Vulnerability Information Structure
 
@@ -152,7 +152,7 @@ Each vulnerability includes:
 - **Medium**: Yellow background
 - **Low**: Green background
 
-## 🚀 Usage Guide
+##  Usage Guide
 
 ### Basic Workflow
 
@@ -185,7 +185,7 @@ Each vulnerability includes:
 - **Filter by Severity** to prioritize critical issues
 - **Use Manual Add** to track items of interest
 
-## 📤 Export Features
+##  Export Features
 
 Export vulnerabilities in multiple formats:
 
@@ -200,7 +200,7 @@ All exports include:
 - Recommendations
 - Evidence and payloads
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 The extension is designed to be easily extensible:
 
@@ -219,4 +219,5 @@ The extension is designed to be easily extensible:
 ## License
 
 Copyright © S.Tamilselvan - Cyber Wolf 
+
 

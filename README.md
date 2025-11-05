@@ -1,3 +1,4 @@
+
 # Wolf Hunter - Burp Suite Extension
 
 **Developer:** S.Tamilselvan  
@@ -7,10 +8,6 @@
 
 Wolf Hunter is a comprehensive vulnerability scanner extension for Burp Suite that automatically detects and reports various security vulnerabilities across all categories and security levels. It provides a GUI-based interface for API testing and vulnerability management.
 
-
-<p align="center">
-  <video src="Burpsuite-wolf-hunter=0.0.0.1.gif" autoplay loop muted playsinline width="600"></video>
-</p>  
 ## Features
 
 ### Vulnerability Detection
